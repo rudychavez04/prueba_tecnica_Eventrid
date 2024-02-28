@@ -1,0 +1,26 @@
+{
+  "memes": [
+    {
+      "name": "Gato Volador ✌",
+      "description": "Un gato que confia en sus 7 vidas",
+      "urlImage": "https://cdn.memegenerator.es/imagenes/memes/full/28/76/28761509.jpg",
+      "like": 10,
+      "comment": 5,
+      "id": 1
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Christian Chavez",
+      "email": "christian@correo.com",
+      "password": "christian"
+    },
+    {
+      "id": 2,
+      "name": "Javier del Prado",
+      "email": "javier@correo.com",
+      "password": "javier"
+    }
+  ]
+}

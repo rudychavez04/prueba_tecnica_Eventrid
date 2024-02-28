@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  margin: 0;
+  background: #f1f1f1;
+}
+.max-w-custom {
+  max-width: 250px; 
+}
